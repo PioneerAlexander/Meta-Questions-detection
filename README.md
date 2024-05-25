@@ -11,4 +11,8 @@ Refer to [official website](https://nometa.xyz) for more detailed information ab
 
 In this project we investigate how modern classification model, such as DistilBERT, performs on the problem of Meta-question detection.
 
+## Code and materials
 
+To access the code, refer to the Jupyter Notebook files attached to this repository - [main part](nometa_xyz.ipynb) and [analysis part](nometa_xyz_analysis.ipynb).
+
+To access the detailed information about the project, refer to the project [presentation](Nometa_DL.pdf).
